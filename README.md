@@ -24,11 +24,6 @@ Here are a few things I've picked up along my learning journey.
  or give some ♥ on [mail](mailto:manu742000@gmail.com) .
 
 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manakupadhyay/manakupadhyay)
 
-![Manak's github stats](https://github-readme-stats.vercel.app/api?username=manakupadhyay&show_icons=true&theme=radical)
-
-
-
- 
+![Manak's github stats](https://github-readme-stats.vercel.app/api?username=manakupadhyay&show_icons=true&theme=dark)
