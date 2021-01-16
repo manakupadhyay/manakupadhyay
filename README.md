@@ -10,22 +10,22 @@ I am a Full Stack Developer and avid Reader. I am passionate about technologies 
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 C++ | Java | Javascript | Python
-* 🖇️ Node 
-* 🛢️ MySQL | MongoDB
+*  C++ | Java | Javascript | Python
+*  Node 
+*  MySQL | MongoDB
 * :octocat: Git | Github
-* 🌐 HTML | CSS | Bootstrap
-* ☁ Express | Vue
+*  HTML | CSS | Bootstrap
+* Express | Vue
 
 ## 📫 Get in touch
-- LinkedIn - [Manak Upadhyay](https://in.linkedin.com/in/manakupadhyay)
+- LinkedIn - [Manak Upadhyay](https://in.linkedin.com/in/manak-upadhyay)
 - Twitter - [@upadhyay_manak](https://twitter.com/upadhyay_manak)
 
  or give some ♥ on [mail](mailto:manu742000@gmail.com) .
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=manakupadhyay/manakupadhyay)
 
 
  
