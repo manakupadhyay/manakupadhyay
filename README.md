@@ -25,5 +25,3 @@ Here are a few things I've picked up along my learning journey.
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manakupadhyay/manakupadhyay)
-
-![Manak's github stats](https://github-readme-stats.vercel.app/api?username=manakupadhyay&show_icons=true&theme=dark)
