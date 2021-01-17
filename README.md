@@ -25,3 +25,5 @@ Here are a few things I've picked up along my learning journey.
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manakupadhyay/manakupadhyay)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manakupadhyay&layout=compact&theme=radical)](https://github.com/manakupadhyay/github-readme-stats)
