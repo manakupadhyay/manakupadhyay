@@ -3,8 +3,6 @@
 
 ## ⚡ Tech Stack
 
-Here are a few things I've picked up along my learning journey.
-
 *  C++ | Java | Javascript | Python
 *  Node
 *  MySQL | MongoDB
@@ -16,5 +14,3 @@ Here are a few things I've picked up along my learning journey.
 - LinkedIn - [Manak Upadhyay](https://in.linkedin.com/in/manak-upadhyay)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manakupadhyay/manakupadhyay)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manakupadhyay&layout=compact&theme=dark)](https://github.com/manakupadhyay/github-readme-stats)
