@@ -8,7 +8,7 @@
 *  MySQL | MongoDB
 * :octocat: Git | Github
 *  HTML | CSS | Bootstrap
-* Express | Vue | Laravel
+* Express | Laravel
 
 ## 📫 Get in touch
 - LinkedIn - [Manak Upadhyay](https://in.linkedin.com/in/manak-upadhyay)
