@@ -7,7 +7,7 @@
 *  Node
 *  MySQL | MongoDB
 * :octocat: Git | Github
-*  HTML | CSS | Bootstrap
+*  HTML | CSS | Bootstrap | React
 * Express | Laravel
 
 ## 📫 Get in touch
