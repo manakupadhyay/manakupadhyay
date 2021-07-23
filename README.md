@@ -3,7 +3,7 @@
 
 ## ⚡ Tech Stack
 
-*  C++ | Java | Javascript | Python
+*  C++ | Java | Javascript
 *  Node
 *  MySQL | MongoDB
 * :octocat: Git | Github
